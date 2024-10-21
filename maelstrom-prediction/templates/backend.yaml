@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-backend
+spec:
+  selector:
+    matchLabels:
+      name: {{ .Release.Name }}-backend
+  template:
+    metadata:
+      labels:
+        name: {{ .Release.Name }}-backend
+    spec:
+      containers:
+      - image: {{ .Values.images.backend }}
+        name: backend
+        ports:
+          - containerPort: 5000
+        imagePullPolicy: IfNotPresent
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Release.Name }}-backend
+spec:
+  ports:
+    - name: "5000"
+      port: 5000
+      targetPort: 5000
+  selector:
+    name: {{ .Release.Name }}-backend

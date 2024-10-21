@@ -1,0 +1,141 @@
+tag,label,iri,domain
+Age,Age/birthdate,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000002,Sociodemographic_economic_characteristics
+Sex,Sex/gender,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000003,Sociodemographic_economic_characteristics
+Twin,Twin,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000004,Sociodemographic_economic_characteristics
+Marital_status,Marital/partner status,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000005,Sociodemographic_economic_characteristics
+Family_hh_struct,Family and household structure,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000006,Sociodemographic_economic_characteristics
+Education,Education,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000007,Sociodemographic_economic_characteristics
+Residence,Residence,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000008,Sociodemographic_economic_characteristics
+Birth_place,Birthplace,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000009,Sociodemographic_economic_characteristics
+Citizenship,Citizenship and immigrant status,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000010,Sociodemographic_economic_characteristics
+Muscles_skeleton_mobility,"Muscles, skeleton and mobility",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000100,Physical_measures
+Sensory_pain,Sensory and pain,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000101,Physical_measures
+Brain_nerves,Brain and nerves,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000102,Physical_measures
+Skin_subcutaneous,Skin and subcutaneous tissue,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000103,Physical_measures
+Speech_voice,Speech and voice,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000104,Physical_measures
+Digestion,Digestion,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000105,Physical_measures
+Reproduction,Reproduction,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000106,Physical_measures
+Other_phys_measures,Other physical measures and assessments,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000107,Physical_measures
+Hematology,Hematology,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000109,Laboratory_measures
+Ethnic_race_religion,"Ethnicity, race and religion",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000011,Sociodemographic_economic_characteristics
+Biochemistry,Biochemistry,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000110,Laboratory_measures
+Microbiology,Microbiology,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000111,Laboratory_measures
+Virology,Virology,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000112,Laboratory_measures
+Immunology,Immunology,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000113,Laboratory_measures
+Toxicology,Toxicology,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000114,Laboratory_measures
+Histology,Histology,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000115,Laboratory_measures
+Genomics,Genomics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000116,Laboratory_measures
+Other_lab_measures,Other laboratory measures,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000117,Laboratory_measures
+Cognitive_functioning,Cognitive functioning,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000119,Cognitive_psychological_measures
+Language,Language,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000012,Sociodemographic_economic_characteristics
+Personality,Personality,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000120,Cognitive_psychological_measures
+Psychological_emotional_distress,Psychological distress and emotions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000121,Cognitive_psychological_measures
+Other_psycholog_measures,Other psychological measures and assessments,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000122,Cognitive_psychological_measures
+Life_events,Life events,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000124,Cognitive_psychological_measures
+life_events,Life events,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000124,Life_events_plans_beliefs
+Life_plans,Life plans,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000125,Life_events_plans_beliefs
+Beliefs_values,Beliefs and values,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000126,Life_events_plans_beliefs
+Other_life_events,"Other life events, plans and beliefs",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000127,Life_events_plans_beliefs
+Preschool,Preschool life,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000129,Preschool_school_work
+Labour_retirement,Labour force and retirement,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000013,Sociodemographic_economic_characteristics
+School,School life,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000130,Preschool_school_work
+Work,Work life,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000131,Preschool_school_work
+Other_school_work,"Other preschool, school or work life-related information",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000132,Preschool_school_work
+Soc_network,Social network,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000134,Social_environment
+Soc_participation,Social participation,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000135,Social_environment
+Soc_support,Social support,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000136,Social_environment
+Parenting,Parenting and familial environment,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000137,Social_environment
+Other_soc_characteristics,Other social environment characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000138,Social_environment
+Income,"Income, possessions, and benefits",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000014,Sociodemographic_economic_characteristics
+Housing,Housing characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000140,Physical_environment
+Neighborhood,Built environment/neighbourhood characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000141,Physical_environment
+Workplace,Workplace characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000142,Physical_environment
+Radiation_exp,Radiation exposure,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000143,Physical_environment
+Chemical_exp,Chemical exposure,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000144,Physical_environment
+Biological_exp,Biological exposure,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000145,Physical_environment
+Other_environment,Other physical environment characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000146,Physical_environment
+Identifiers,Identifiers,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000148,Administrative_information
+Date_time_related_info,Date and time-related information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000149,Administrative_information
+Other_sociodemogr_chars,Other socio-demographic and economic characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000015,Sociodemographic_economic_characteristics
+Questionnaire_interview_related_info,Questionnaire and interview-related information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000150,Administrative_information
+Physical_measure_biosamp_related_info,Physical and cognitive measure and biosample-related information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000151,Administrative_information
+Data_sample_center,Data and sample collection center-related information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000152,Administrative_information
+Other_admin_info,Other administrative information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_00000000153,Administrative_information
+Tobacco,Tobacco,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000017,Lifestyle_behaviours
+Alcohol,Alcohol,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000018,Lifestyle_behaviours
+Drugs,Drugs,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000019,Lifestyle_behaviours
+Nutrition,Nutrition,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000020,Lifestyle_behaviours
+Breastfeeding,Breastfeeding,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000021,Lifestyle_behaviours
+Phys_act,Physical activity,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000022,Lifestyle_behaviours
+Transportation,Transportation,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000023,Lifestyle_behaviours
+Pers_hygiene,Personal hygiene,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000024,Lifestyle_behaviours
+Sleep,Sleep,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000025,Lifestyle_behaviours
+Sex_behav,Sexual behaviours and orientation,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000026,Lifestyle_behaviours
+Leisure_act,Leisure activities,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000027,Lifestyle_behaviours
+Tech_devices,Technological devices,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000028,Lifestyle_behaviours
+Misbehav_crim,Misbehaviour and criminality,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000029,Lifestyle_behaviours
+Other_lifestyle,Other and unspecified lifestyle information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000030,Lifestyle_behaviours
+Menstr_menop_andropause,"Puberty, menstruation, menopause and andropause",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000032,Reproduction
+Contraception,Contraception,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000033,Reproduction
+Pregnancy_delivery,"Pregnancy, delivery and birth",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000034,Reproduction
+Reprod_sexual_problems,Fertility and sexual health,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000035,Reproduction
+Other_reproductive,Other reproductive health-related information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000036,Reproduction
+Perc_health,Perception of health,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000038,Health_status_functional_limitations
+Qual_life,Quality of life,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000039,Health_status_functional_limitations
+Life_dev,Life course development,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000040,Health_status_functional_limitations
+Act_daily_living,Functional limitations,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000041,Health_status_functional_limitations
+Use_devices,Use of assistive devices,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000042,Health_status_functional_limitations
+Other,"Other perception of health, quality of life and functional limitation-related information",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000043,Health_status_functional_limitations
+Other_dis,Diseases without precise specification or falling into multiple categories,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000064,Diseases
+Other_sympt,Symptoms related to multiple categories,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000074,Symptoms_signs
+Medication_suppl,Medication and supplement intake,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000076,Medication_supplements
+Posology_protocol,Posology and protocol of administration,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000077,Medication_supplements
+Other_pharmacological_inter,Other and unspecified pharmacological interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000078,Medication_supplements
+Surgical_inter,Surgical interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000080,Non_pharmacological_interventions
+Radiological_inter,Radiological interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000081,Non_pharmacological_interventions
+Physical_inter,Physical therapy interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000082,Non_pharmacological_interventions
+Cognitive_psycho_sensory_inter,"Cognitive, psychological and sensory interventions",http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000083,Non_pharmacological_interventions
+Educational_inter,Educational and health promotion interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000084,Non_pharmacological_interventions
+Biosample_analyses,Laboratory diagnosis interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000085,Non_pharmacological_interventions
+Other_non_pharmacological_inter,Other and unspecified non-pharmacological interventions,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000086,Non_pharmacological_interventions
+Visit_health_prof,Visits to health professionals,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000088,Health_community_care_utilization
+Hospitalizations,Hospitalizations,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000089,Health_community_care_utilization
+Community_care,Community and social care,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000090,Health_community_care_utilization
+Other_health_and_community_care,Other health and community care,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000091,Health_community_care_utilization
+Life_status,Vital status,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000093,End_of_life
+Cause_death,Cause of death,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000094,End_of_life
+Other_death,Other end of life or death-related information,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000095,End_of_life
+Physical_characteristics,Physical characteristics,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000097,Physical_measures
+Anthropo_measures,Anthropometry,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000098,Physical_measures
+Circulation_respiration,Circulation and respiration,http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000099,Physical_measures
+Infectious_dis,Certain infectious and parasitic diseases (A00-B99),https://icd.who.int/browse10/2019/en#/I,Diseases
+Neoplasms,Neoplasms (C00-D48),https://icd.who.int/browse10/2019/en#/II,Diseases
+Blood_immune_dis,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism (D50-D89),https://icd.who.int/browse10/2019/en#/III,Diseases
+Endocrine_metabolic_dis,"Endocrine, nutritional and metabolic diseases (E00-E90)",https://icd.who.int/browse10/2019/en#/IV,Diseases
+Circulatory_sys_dis,Diseases of the circulatory system (I00-I99),https://icd.who.int/browse10/2019/en#/IX,Diseases
+Circulatory_respiratory_sympt,Symptoms and signs involving the circulatory and respiratory systems (R00-R09),https://icd.who.int/browse10/2019/en#/R00-R09,Symptoms_signs
+Digestive_sympt,Symptoms and signs involving the digestive system and abdomen (R10-R19),https://icd.who.int/browse10/2019/en#/R10-R19,Symptoms_signs
+Skin_subcut_sympt,Symptoms and signs involving the skin and subcutaneous tissue (R20-R23),https://icd.who.int/browse10/2019/en#/R20-R23,Symptoms_signs
+Nervous_musculoskeletal_sympt,Symptoms and signs involving nervous and musculoskeletal systems (R25-R29),https://icd.who.int/browse10/2019/en#/R25-R29,Symptoms_signs
+Urinary_sympt,Symptoms and signs involving the urinary system (R30-R39),https://icd.who.int/browse10/2019/en#/R30-R39,Symptoms_signs
+Cognitive_perc_emotional_sympt,"Symptoms and signs involving cognition, perception, emotional state and behaviour (R40-R46)",https://icd.who.int/browse10/2019/en#/R40-R46,Symptoms_signs
+Speech_voice_sympt,Symptoms and signs involving speech and voice (R47-R49),https://icd.who.int/browse10/2019/en#/R47-R49,Symptoms_signs
+General_sympt,General symptoms and signs (R50-R69),https://icd.who.int/browse10/2019/en#/R50-R69,Symptoms_signs
+Mental_behav_dis,Mental and behavioural disorders (F00-F99),https://icd.who.int/browse10/2019/en#/V,Diseases
+Nervous_sys_dis,Diseases of the nervous system (G00-G99),https://icd.who.int/browse10/2019/en#/VI,Diseases
+Eye_adnexa_dis,Diseases of the eye and adnexa (H00-H59),https://icd.who.int/browse10/2019/en#/VII,Diseases
+Ear_mastoid_dis,Diseases of the ear and mastoid process (H60-H95),https://icd.who.int/browse10/2019/en#/VIII,Diseases
+Respiratory_sys_dis,Diseases of the respiratory system (J00-J99),https://icd.who.int/browse10/2019/en#/X,Diseases
+Digestive_sys_dis,Diseases of the digestive system (K00-K93),https://icd.who.int/browse10/2019/en#/XI,Diseases
+Skin_subcutaneous_dis,Diseases of the skin and subcutaneous tissue (L00-L99),https://icd.who.int/browse10/2019/en#/XII,Diseases
+Musculoskeletal_sys_dis,Diseases of the musculoskeletal system and connective tissue (M00-M99),https://icd.who.int/browse10/2019/en#/XIII,Diseases
+Genitourinary_sys_dis,Diseases of the genitourinary system (N00-N99),https://icd.who.int/browse10/2019/en#/XIV,Diseases
+Injury_poisoning,"Injury, poisoning and certain other consequences of external causes (S00-T98)",https://icd.who.int/browse10/2019/en#/XIX,Diseases
+Pregnancy_childbirth,"Pregnancy, childbirth and the puerperium (O00-O9A)",https://icd.who.int/browse10/2019/en#/XV,Diseases
+Perinatal_cond,Certain conditions originating in the perinatal period (P00-P96),https://icd.who.int/browse10/2019/en#/XVI,Diseases
+Cong_malform_chrom_abnor,"Congenital malformations, deformations and chromosomal abnormalities (Q00-Q99)",https://icd.who.int/browse10/2019/en#/XVII,Diseases
+Morbidity_mortality_ext,External causes of morbidity and mortality (V01-Y98),https://icd.who.int/browse10/2019/en#/XX,Diseases
+Injury_poisoning_Physical_inter,"Injury, poisoning and certain other consequences of external causes (S00-T98); Physical therapy interventions",https://icd.who.int/browse10/2019/en#/XIX; http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000082,Diseases;Non_pharmacological_interventions
+Injury_poisoning_Hospitalizations,"Injury, poisoning and certain other consequences of external causes (S00-T98); Hospitalizations",https://icd.who.int/browse10/2019/en#/XIX; http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000089,Diseases;Health_community_care_utilization
+Injury_poisoning_Visit_health_prof,"Injury, poisoning and certain other consequences of external causes (S00-T98); Visits to health professionals",https://icd.who.int/browse10/2019/en#/XIX; http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000088,Diseases;Health_community_care_utilization
+Injury_poisoning_Medication_suppl,"Injury, poisoning and certain other consequences of external causes (S00-T98); Medication and supplement intake",https://icd.who.int/browse10/2019/en#/XIX; http://semanticlookup.zbmed.de/km/MAELSTROM/ZBMED_MS_0000000076,Diseases;Medication_supplements

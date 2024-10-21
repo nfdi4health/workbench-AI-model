@@ -1,0 +1,6 @@
+ingress:
+  dns:
+  enableSSL:
+  certIssuer:
+images:
+  backend: ghcr.io/nfdi4health/maelstrom-classification/backend:73120eda6b8e4ea5a2c49eab40b72b97f4a34201
