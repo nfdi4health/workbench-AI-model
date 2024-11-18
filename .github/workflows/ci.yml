@@ -35,8 +35,8 @@ jobs:
           context: ./api
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}/backend:${{ steps.generate-image-tag.outputs.imageTag }}
-            ghcr.io/${{ github.repository }}/backend:${{ github.event.pull_request.head.sha || github.sha }}
+            ghcr.io/nfdi4health/workbench-ai-model/backend:${{ steps.generate-image-tag.outputs.imageTag }}
+            ghcr.io/nfdi4health/workbench-ai-model/backend:${{ github.event.pull_request.head.sha || github.sha }}
           build-args: |
             COMMIT_SHA=${{ github.sha }}
             HF_TOKEN=${{ secrets.HF_TOKEN }}
