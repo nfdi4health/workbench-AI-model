@@ -31,15 +31,13 @@ def predict():
     variable = request.args.get('variable')
 
     if variable is None:
-        print('Variable is None')
         return jsonify({'errorCode': 404, 'message': 'Variable not found'})
     else:
         result = pipe(variable)
         result_sorted = sorted(result[0], key=lambda x: x['score'], reverse=True)
 
         mapped_result = []
-        print("res",result_sorted)
-        print("mapp", mapped_tags)
+
         for res in result_sorted:
 
             mapped_result.append(

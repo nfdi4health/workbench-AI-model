@@ -3,3 +3,4 @@ Werkzeug==2.2.2
 simpletransformers==0.63.9
 torch==1.12.1
 transformers==4.24.0
+numpy<2
